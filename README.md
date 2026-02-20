@@ -20,8 +20,8 @@
 
 - 💼 **Alternant chez Worldline (Équipe NOVA) :** Développement et maintenance d'une application web critique pour les établissements de santé (PMI). Traitement sécurisé des données médicales et optimisation des flux transactionnels.
 - 🎓 **Master 2 (EISI) à l'EPSI Lille :** Spécialisation en architecture logicielle et DevOps.
-- ✈️ **Fondateur & Lead Dev sur [Vadro](lien_vers_le_repo_vadro) :** Développement Fullstack d'une application innovante génératrice d'itinéraires de voyage pour chaque jour.
-- 🌱 **Apprentissage continu :** Perfectionnement sur **Rust** pour les performances système et exploration des architectures Serverless.
+- ✈️ **Fondateur & Lead Dev sur [Vadro]() :** Développement Fullstack d'une application innovante génératrice d'itinéraires de voyage pour chaque jour.
+- 🌱 **Apprentissage continu :** Perfectionnement sur les langages modernes pour les performances système et exploration des architectures Serverless.
 
 ---
 
@@ -33,9 +33,17 @@
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="Symfony" />
+      <br>Symfony
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="ReactJS" />
+      <br>ReactJS
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
@@ -75,9 +83,3 @@
 </table>
 
 ---
-
-### 🧠 Philosophie et Méthode de Travail
-
-- **L'effet cumulé :** Le code est comme un investissement. Un code propre et bien documenté aujourd'hui génère des intérêts (gain de temps et de performance) sur le long terme.
-- **Discipline & Rigueur :** Habitué aux environnements exigeants (sport de force, gestion de données de santé), j'applique une régularité stricte dans mes livraisons et la qualité de mes commits.
-- **Orienté Produit :** Je ne me contente pas d'aligner des lignes de code ; je cherche toujours à comprendre le besoin métier final (de l'optimisation pour les PMI à l'UX d'un voyageur sur Vadro).
