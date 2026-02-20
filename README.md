@@ -1,30 +1,83 @@
-# Salut, je suis Amaury 👋
+<h1 align="center">Salut, je suis Amaury Lecoq 🚀</h1>
+<h3 align="center">Développeur Fullstack | Expert en Systèmes d'Information | Créateur de Vadro</h3>
 
-**Expert en Systèmes d'Information | Développeur Fullstack**
+<p align="center">
+  Je conçois des architectures logicielles robustes et des applications performantes. Passionné par l'écosystème Tech et la création de valeur, je combine rigueur technique et vision produit pour livrer des solutions qui ont un réel impact.
+</p>
 
-Je suis un développeur passionné par la conception d'architectures robustes et le développement d'applications scalables. J'aborde le code avec la même discipline et la même régularité qu'un investissement long terme : l'objectif est de créer de la valeur concrète et durable.
+<p align="center">
+  <a href="https://www.linkedin.com/in/amaury-lecoq-455854232/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:amaury.lcq@outlook.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### 🚀 Actuellement
-* 💼 **Alternant Développeur Fullstack chez Worldline** (Équipe NOVA) : Développement et maintenance évolutive d'applications de gestion critiques pour les établissements de santé.
-* 🎓 **Étudiant en Bac+5 (EISI) à l'EPSI Lille** : Spécialisation DevOps et Systèmes d'Information.
-* ✈️ **Créateur de Vadro** : Conception et développement d'une application génératrice d'itinéraires de voyage quotidiens.
+---
 
-### 🛠️ Ma Stack Technique
+### 🔭 Ce que je fais actuellement
 
-**Langages & Backend**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- 💼 **Alternant chez Worldline (Équipe NOVA) :** Développement et maintenance d'une application web critique pour les établissements de santé (PMI). Traitement sécurisé des données médicales et optimisation des flux transactionnels.
+- 🎓 **Master 2 (EISI) à l'EPSI Lille :** Spécialisation en architecture logicielle et DevOps.
+- ✈️ **Fondateur & Lead Dev sur [Vadro](lien_vers_le_repo_vadro) :** Développement Fullstack d'une application innovante génératrice d'itinéraires de voyage pour chaque jour.
+- 🌱 **Apprentissage continu :** Perfectionnement sur **Rust** pour les performances système et exploration des architectures Serverless.
 
-**Frontend & Mobile**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+---
 
-**Bases de Données & DevOps**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+### 🛠️ Mon Arsenal Technique
 
-### 📫 Me contacter
-* **LinkedIn :** [Amaury Lecoq](https://www.linkedin.com/in/amaury-lecoq-455854232/)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React Native
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧠 Philosophie et Méthode de Travail
+
+- **L'effet cumulé :** Le code est comme un investissement. Un code propre et bien documenté aujourd'hui génère des intérêts (gain de temps et de performance) sur le long terme.
+- **Discipline & Rigueur :** Habitué aux environnements exigeants (sport de force, gestion de données de santé), j'applique une régularité stricte dans mes livraisons et la qualité de mes commits.
+- **Orienté Produit :** Je ne me contente pas d'aligner des lignes de code ; je cherche toujours à comprendre le besoin métier final (de l'optimisation pour les PMI à l'UX d'un voyageur sur Vadro).
