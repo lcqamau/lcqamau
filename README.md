@@ -20,7 +20,7 @@
 
 - 💼 **Alternant chez Worldline (Équipe NOVA) :** Développement et maintenance d'une application web critique pour les établissements de santé (PMI). Traitement sécurisé des données médicales et optimisation des flux transactionnels.
 - 🎓 **Master 2 (EISI) à l'EPSI Lille :** Spécialisation en architecture logicielle et DevOps.
-- ✈️ **Fondateur & Lead Dev sur [Vadro]() :** Développement Fullstack d'une application innovante génératrice d'itinéraires de voyage pour chaque jour.
+- ✈️ **Fondateur & Lead Dev sur [Vadro](https://github.com/lcqamau/Vadro) :** Développement Fullstack d'une application innovante génératrice d'itinéraires de voyage pour chaque jour.
 - 🌱 **Apprentissage continu :** Perfectionnement sur les langages modernes pour les performances système et exploration des architectures Serverless.
 
 ---
