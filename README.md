@@ -1,5 +1,5 @@
 <h1 align="center">Salut, je suis Amaury Lecoq 🚀</h1>
-<h3 align="center">Développeur Fullstack | Expert en Systèmes d'Information | Créateur de Vadro</h3>
+<h3 align="center">Développeur Fullstack | Expert en Systèmes d'Information</h3>
 
 <p align="center">
   Je conçois des architectures logicielles robustes et des applications performantes. Passionné par l'écosystème Tech et la création de valeur, je combine rigueur technique et vision produit pour livrer des solutions qui ont un réel impact.
