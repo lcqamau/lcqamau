@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis Amaury Lecoq 🚀</h1>
+<h1 align="center">Salut, je suis Amaury Lecoq</h1>
 <h3 align="center">Développeur Fullstack | Expert en Systèmes d'Information</h3>
 
 <p align="center">
