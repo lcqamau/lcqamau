@@ -41,6 +41,11 @@
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
+      </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="React" />
+      <br>NodeJS
+    </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="ReactJS" />
       <br>ReactJS
@@ -57,6 +62,14 @@
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React Native
     </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="React" />
+      <br>HTML
+    </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="React" />
+      <br>CSS
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -66,6 +79,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="MySQL" />
+      <br>POSTMAN
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
@@ -78,6 +95,14 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitHub" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="PostgreSQL" />
+      <br>Visual Studio Code
     </td>
   </tr>
 </table>
