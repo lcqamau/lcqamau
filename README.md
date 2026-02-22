@@ -46,8 +46,8 @@
       <br>ReactJS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-      <br>Rust
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Rust" />
+      <br>JAVA
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
